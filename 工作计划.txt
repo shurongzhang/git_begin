@@ -1,10 +1,3 @@
-﻿1：今天学习一下git怎么使用的？？
+
 include <>
 end
-www.github.com
-123456
-step 2: 
-step10
-local step11;
-
-local step12;
